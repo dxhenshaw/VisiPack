@@ -1,0 +1,77 @@
+<VisualMicro>
+  <Program Name="VisiPack" Ext=".ino" Location="S:\Arduino\VisiPack">
+    <Platform Name="arduino10x" Package="arduino" Platform="avr" Architecture="avr">
+      <Board Name="micro" Description="Arduino Micro" CoreFolder="C:\Program Files\arduino-1.0.3\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files\arduino-1.0.3\hardware\arduino\variants\micro" McuIdePath="C:\Program Files\arduino-1.0.3" McuSketchBookPath="C:\Users\David\Documents\Arduino" name="Arduino Micro" upload.protocol="avr109" upload.maximum_size="28672" upload.speed="57600" upload.disable_flushing="true" bootloader.low_fuses="0xff" bootloader.high_fuses="0xd8" bootloader.extended_fuses="0xcb" bootloader.path="caterina" bootloader.file="Caterina-Micro.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x2F" build.mcu="atmega32u4" build.f_cpu="16000000L" build.vid="0x2341" build.pid="0x8037" build.core="arduino" build.variant="micro" runtime.ide.path="C:\Program Files\arduino-1.0.3" build.system.path="C:\Program Files\arduino-1.0.3\hardware\arduino\system" runtime.ide.version="103" originalid="micro" vm.platform.root.path="C:\Program Files\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino10x" build.core.vmresolved="C:\Program Files\arduino-1.0.3\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="C:\Program Files\arduino-1.0.3\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="C:\Program Files\arduino-1.0.3\hardware\arduino" vm.core.include="arduino.h" ide.hint="Arduino 0023 and 1.0.x Ide" ide.location.key="Arduino" ide.location.ide.winreg="Arduino 1.0.x Application" ide.location.sketchbook.winreg="Arduino 1.0.x Sketchbook" ide.location.sketchbook.preferences="sketchbook.path" ide.location.sketchbook.default="%MYDOCUMENTS%\arduino" ide.location.preferences="%VM_APPDATA_ROAMING%\arduino\preferences.txt" ide.default.package="arduino" ide.default.platform="avr" ide.multiplatform="true" ide.includes="arduino.h" ide.platformswithoutpackage="true" ide.includes.fallback="wprogram.h" ide.extension="ino" ide.extension.fallback="pde" ide.versionLTEQ="149" ide.exe="arduino.exe" ide.hosts="atmel" ide.url="http://arduino.cc/en/Main/Software" vm.debug="true" software="ARDUINO" ide.appid="arduino10x" location.sketchbook="C:\Users\David\Documents\Arduino" build.board="AVR_MICRO" vm.boardsource.path="C:\Program Files\arduino-1.0.3\hardware\arduino" vm.platformname.name="avr" build.arch="AVR" build.variant.vmresolved="C:\Program Files\arduino-1.0.3\hardware\arduino\variants\micro" vm.runtime.compiler.showwarnings="false" compiler.path="C:\Program Files\arduino-1.0.3\hardware\tools\avr\bin\" includes=" -I&quot;C:\Program Files\arduino-1.0.3\hardware\arduino\cores\arduino&quot;  -I&quot;C:\Program Files\arduino-1.0.3\hardware\arduino\variants\micro&quot;  -I&quot;C:\Program Files\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers\VM_DBG&quot;  -I&quot;C:\Users\David\Documents\Arduino\libraries\Adafruit_GFX&quot;  -I&quot;C:\Users\David\Documents\Arduino\libraries\Adafruit_NeoMatrix&quot;  -I&quot;C:\Users\David\Documents\Arduino\libraries\Adafruit_NeoPixel&quot;  -I&quot;C:\Program Files\arduino-1.0.3\libraries&quot;  -I&quot;C:\Program Files\arduino-1.0.3\hardware\arduino\libraries&quot;  -I&quot;C:\Program Files\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers&quot;  -I&quot;C:\Users\David\Documents\Arduino\libraries&quot; " build.path="C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro" build.project_name="VisiPack" build.variant.path="C:\Program Files\arduino-1.0.3\hardware\arduino\variants\micro" archive_file="core.a" object_file="C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\Adafruit_NeoPixel\Adafruit_NeoPixel.cpp.o" source_file="C:\Users\David\Documents\Arduino\libraries\Adafruit_NeoPixel\Adafruit_NeoPixel.cpp" object_files="&quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\VisiPack.cpp.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\VM_DBG\VM_mem_check.c.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\VM_DBG\VM_DBG.cpp.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\Adafruit_GFX\glcdfont.c.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\Adafruit_GFX\Adafruit_GFX.cpp.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\Adafruit_NeoMatrix\Adafruit_NeoMatrix.cpp.o&quot; &quot;C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro\Adafruit_NeoPixel\Adafruit_NeoPixel.cpp.o&quot; " build.architecture="avr" vmresolved.compiler.path="C:\Program Files\arduino-1.0.3\hardware\tools\avr\bin\" vmresolved.tools.path="C:\Program Files\arduino-1.0.3\hardware\tools\avr" />
+    </Platform>
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\David\AppData\Local\VMicro\Arduino\Builds\VisiPack\micro" IsDebugStart="1" SketchName="VisiPack" ReportDigitalPins="0" ReportAnalogPins="0" ReportI2C="0" ReportFreeMemory="0" IncludeDebug="1" LastDebugPreProcessorDefinitions="VM_DEBUG;VM_DEBUG_ENABLE 1;VM_DEBUG_BANDWIDTH_THROTTLE_MS 50;VM_DEBUGGER_TYPE_HARDWARESERIAL 0;VM_DEBUGGER_TYPE_SOFTWARESERIAL 1;VM_DEBUGGER_TYPE_FASTSERIAL 2;VM_DEBUGGER_TYPE_USB 3;VM_DEBUGGER_TYPE_TEENSY 4;VM_DEBUGGER_TYPE_UART 5;VM_DEBUGGER_TYPE_USART 6;VM_DEBUGGER_TYPE_USBSERIAL 7;VM_DEBUGGER_TYPE_TTYUART 8;VM_DEBUGGER_TYPE_NET_CONSOLE 9;VM_DEBUGGER_TYPE VM_DEBUGGER_TYPE_USB;" IncludesDebug="1" IsCompiled="1" />
+    <Debug EnableBreak="0" DebugEnabled="1" />
+    <VCCodeModel>
+      <VCCodeMacros />
+    </VCCodeModel>
+    <BreakPoints>
+      <BreakPoint Index="1" Name="VisiPack.ino, line 42" Id="d03aeba2-1eda-4da6-b236-07a0eecac865" Enabled="1" Message="Reset" MessageTextType="0" PreProcessedMessage="Reset" Condition="" ConditionType="1" CurrentHits="0" File="s:\arduino\visipack\visipack.ino" FileLine="42" FileColumn="1" FunctionName="setup()" FunctionLineOffset="8" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='d03aeba2-1eda-4da6-b236-07a0eecac865'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="0">
+        <Source>35	void setup() {
+36	  matrix.begin();						// get matrix ready			
+37	  matrix.setBrightness(20);				// keep at 20% - batteries seem to not be able to drive at more than this %
+38	  
+39	  matrix.setTextWrap(false);
+40	  randomSeed(analogRead(0));			// to help animation queue from being different each time
+41	  populateAnimationQueue();
+--&gt;42	  //matrix.setCursor(0,0);
+43	  //matrix.setTextColor(RED);
+44	  //matrix.print("S");
+45	  //matrix.show();
+46	  //delay(1000);
+47	  matrix.setTextColor(GREEN);
+48	}
+49	void loop() 
+50	{
+51		matrix.fillScreen(0);					// start with a blank screen
+</Source>
+      </BreakPoint>
+      <BreakPoint Index="2" Name="VisiPack.ino, line 798" Id="afb4b7d1-04f2-42db-a9c6-7bf8eb2e2692" Enabled="1" Message="NextA = {nextAnimation}" MessageTextType="0" PreProcessedMessage="NextA = {0}" Condition="" ConditionType="1" CurrentHits="0" File="s:\arduino\visipack\visipack.ino" FileLine="798" FileColumn="1" FunctionName="calculateNextAnimation()" FunctionLineOffset="7" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='afb4b7d1-04f2-42db-a9c6-7bf8eb2e2692'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="0">
+        <Source>791	}
+792	int calculateNextAnimation() {
+793		do {
+794			byte index = 0;							// start at top of array
+795			int nextAnimation = 99;					// false value
+796			do {
+797				if (animationQueue[index] != 99) {	// if this index position is not bogus one
+--&gt;798					nextAnimation = animationQueue[index];
+799					animationQueue[index] = 99;		// mark as zero for next time round
+800					return nextAnimation;			// returns value and breaks
+801				}
+802				index++;
+803			} while (index &lt; numberAnimations);
+804			if (nextAnimation == 99) populateAnimationQueue(); // is the array full of zeroes? means we need to repopulate it
+805		} while (nextAnimation == 99);
+806	}
+807	void populateAnimationQueue() {						// queue is empty, so repopulate it
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="nextAnimation" Index="1" />
+        </MessageVariables>
+      </BreakPoint>
+      <BreakPoint Index="3" Name="VisiPack.ino, line 52" Id="3bda0497-1a83-496b-abae-236130f2c3ef" Enabled="1" Message="" MessageTextType="2" PreProcessedMessage="" Condition="" ConditionType="1" CurrentHits="0" File="s:\arduino\visipack\visipack.ino" FileLine="52" FileColumn="1" FunctionName="loop()" FunctionLineOffset="3" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='55f4d108-e967-456d-bc40-6d41b48ee4fb'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="1">
+        <Source>45	  //matrix.show();
+46	  //delay(1000);
+47	  matrix.setTextColor(GREEN);
+48	}
+49	void loop() 
+50	{
+51		matrix.fillScreen(0);					// start with a blank screen
+--&gt;52		runAnimation(calculateNextAnimation());	// run the animation
+53		//runAnimation(8);
+54		runTransition(random(0,4));				// run a random transition from 0 thru 4
+55		//delay(25);								// maybe prevents visual micro crashing?
+56	}
+57	
+58	void runAnimation(byte animation) {					// run animation based on value of byte passed in
+59	
+60	  //matrix.setCursor(0,0);
+61	  //matrix.print(animation);
+</Source>
+      </BreakPoint>
+    </BreakPoints>
+  </Program>
+</VisualMicro>

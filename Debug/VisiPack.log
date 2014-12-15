@@ -1,0 +1,21 @@
+﻿Build started 4/20/2014 11:43:28 AM.
+     1>Project "\\SERVER\Data\Arduino\VisiPack\VisiPack.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\VisiPack.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\VisiPack.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       RunCodeAnalysis:
+         Running Code Analysis...
+         C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe  /outputCulture:1033 /out:"\\SERVER\Data\Arduino\VisiPack\Debug\VisiPack.exe.CodeAnalysisLog.xml" /file:"\\SERVER\Data\Arduino\VisiPack\Debug\VisiPack.exe" /reference:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /directory:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /ruleSet:"=MinimumRecommendedRules.ruleset" /rulesetdirectory:"C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets" /rule:"-C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules" /searchgac /ignoreinvalidtargets /forceoutput /successfile /ignoregeneratedcode /saveMessagesToReport:Active /timeout:120 
+         * Could not load file: '\\SERVER\Data\Arduino\VisiPack\Debug\VisiPack.exe'.
+         * Analysis was not performed; at least one valid rules assembly and one valid
+         target file must be specified.
+         * 1 total analysis engine exceptions.
+     1>MSBUILD : error : CA0055 : * Could not load file: '\\SERVER\Data\Arduino\VisiPack\Debug\VisiPack.exe'.
+     1>MSBUILD : error : CA0052 : No targets were selected.
+         Code Analysis Complete -- 2 error(s), 0 warning(s)
+     1>Done Building Project "\\SERVER\Data\Arduino\VisiPack\VisiPack.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.12
